@@ -1,0 +1,8 @@
+Flask~=2.3.2
+Gunicorn
+Pillow~=9.5.0
+numpy~=1.24.3
+werkzeug~=2.3.4
+flask_wtf
+matplotlib~=3.7.1
+WTForms~=3.0.1
